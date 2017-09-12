@@ -3,7 +3,7 @@
 ## Current Sites (past year)
 
 ### 100% me
-The following sites are 100% me, from planning and design to implementation. 
+The following sites and apps are 100% me, from planning and design to implementation. Note: I also have Sketch mockups for iPhone apps I currently have under development, which are available upon request.
 
 #### [UOPlanner](http://uoplanner.com)
 * UOPlanner is a character planning website for the game Ultima Online. This is a MEAN application. All code is public.
