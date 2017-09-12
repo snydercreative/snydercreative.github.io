@@ -11,6 +11,9 @@ The following sites are 100% me, from planning and design to implementation.
 #### [SittingOutside](https://sittingoutside.com) 
 * SittingOutside is a restaurant index for only places you can sit outside. This is an Node/Express site using Angular on the front-end. Code is private, but I'm happy to share in person, or temporarily grant access to a repo if requested.
 
+#### [SnyderCreative](http://snydercreative.com)
+* SnyderCreative is the business name my wife and I use for independent freelance and contract work. The site is in the process of being rebuilt since the business will be releasing the iPhone app for SittingOutside in late 2017.
+
 ### Other works (past year)
 You can see my contributions to the [Baltimore County](http://baltimorecountymd.gov) websites starting on my [Baltimore County Github account page](https://github.com/mxsnyder), but here are the public repos I've been focused on over the last year:
 
