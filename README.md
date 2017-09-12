@@ -6,7 +6,7 @@
 The following sites are 100% me, from planning and design to implementation. 
 
 #### [UOPlanner](http://uoplanner.com)
-* UOPlanner is a character planning website for the game Ultima Online. This is a MEAN application. All code is public, and I apologize in advance if you look at the naughty words data file. These are gamers, so I had to filter out a lot of NSFW language.
+* UOPlanner is a character planning website for the game Ultima Online. This is a MEAN application. All code is public.
 
 #### [SittingOutside](https://sittingoutside.com) 
 * SittingOutside is a restaurant index for only places you can sit outside. This is an Node/Express site using Angular on the front-end. Code is private, but I'm happy to share in person, or temporarily grant access to a repo if requested.
